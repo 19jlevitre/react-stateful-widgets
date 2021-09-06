@@ -32,7 +32,7 @@ export default function Squares() {
     // Right-click and "inspect element" on the square to see its effect.
     return ''
   };
-
+// laknsdl'kfasd;lkfad
   const markActive = id => {
     // This is a helper used inside an _inlined_ click handler (see below).
     // Set the id argument to become the active id in state
